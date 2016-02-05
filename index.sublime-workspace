@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"countMin"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"sr",
+				"start"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"magr",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"rule",
+				"ruleUsername"
+			],
+			[
+				"valida",
+				"validateForm"
+			],
+			[
+				"ru",
+				"ruleAge"
+			],
+			[
+				"use",
+				"userFild"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"da",
+				"DateForm"
+			],
+			[
+				"de",
+				"dateObject"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"su",
+				"sumValue"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"bu",
+				"buttons"
+			],
+			[
+				"butto",
+				"buttons"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"getEle",
+				"getElementsByTagName"
+			],
+			[
+				"age",
+				"ageFild"
+			],
+			[
+				"cahg",
+				"changeBorder"
+			],
+			[
+				"p",
+				"passwordRule"
+			],
+			[
+				"ps",
+				"passwordFild"
+			],
+			[
+				"e",
+				"elements"
+			],
+			[
+				"set",
+				"setDateValue"
+			],
+			[
+				"date",
+				"dateObject"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"filte",
+				"filtered"
+			],
+			[
+				"ro",
+				"rounded"
+			],
+			[
+				"i",
+				"interval"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"pr",
+				"prop"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"sty",
+				"list-style-position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"l",
+				"margin-left"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"f",
+				"for	Attr"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"FO",
+				"font-family"
+			],
+			[
+				"route",
+				"routeId"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"publ",
+				"public"
+			],
+			[
+				"_c",
+				"_controller"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yura/my-projects/homework/formValidation/index.html",
+		"/home/yura/my-projects/homework/formValidation/js/main.js",
+		"/home/yura/my-projects/homework/6HTML-Advansed/6HTML-Advansed/forms/index.html",
+		"/home/yura/my-projects/homework/lecture5/homeworkForms/js/main.js",
+		"/home/yura/my-projects/homework/Vebinar/css/style.css",
+		"/home/yura/my-projects/homework/6HTML-Advansed/index.txt",
+		"/home/yura/my-projects/homework/6HTML-Advansed/6HTML-Advansed/index.html",
+		"/home/yura/my-projects/bootstrapTest/UnderConstruction.html",
+		"/home/yura/my-projects/bootstrapTest/css/style.css",
+		"/home/yura/my-projects/bootstrapTest/index.html",
+		"/home/yura/my-projects/homework/Vebinar/css/reset.css",
+		"/home/yura/index.html",
+		"/home/yura/my-projects/homework/Vebinar/index.html",
+		"/home/yura/homework/Oksana_site/css/style.css",
+		"/home/yura/my-projects/homework/lecture5/romasLectureTwo/js/style.js",
+		"/home/yura/my-projects/homework/07-JS-DOM-BOM/js/main.js",
+		"/home/yura/my-projects/homework/lecture5/formsCreate/js/app.js",
+		"/home/yura/my-projects/homework/lecture5/homeworkForms/css/style.css",
+		"/home/yura/my-projects/homework/lecture5/homeworkForms/index.html",
+		"/home/yura/app.js",
+		"/home/yura/my-projects/homework/lecture5/homeworkForms/css/syle.css",
+		"/home/yura/my-projects/homework/lecture5/index.html",
+		"/home/yura/my-projects/homework/lecture5/js/app.js",
+		"/home/yura/my-projects/homework/lecture5/js/upp.js",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/js/main.css",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/taskTwo.html",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/js/taskTwo.js",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/index.html",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/js/main.js",
+		"/home/yura/app_task_1.js",
+		"/home/yura/my-projects/homework/7HTML-Advansed_new/css/style.css",
+		"/home/yura/Calculator/css/style.css",
+		"/home/yura/Calculator/js/main.js",
+		"/home/yura/my-projects/homework/lectionbyRomanJs/main.js",
+		"/home/yura/Calculator/index.html",
+		"/home/yura/javascriptBook/funcions/js/string.js",
+		"/home/yura/javascriptBook/funcions/index.html",
+		"/home/yura/javascriptBook/funcions/js/even.js",
+		"/home/yura/my-projects/homework/lecture5/formsCreate/index.html",
+		"/home/yura/js",
+		"/home/yura/jsFignja/js/app.js",
+		"/home/yura/jsFignja/index.html",
+		"/home/yura/my-projects/homework/lection4/up.js",
+		"/home/yura/my-projects/homework/lection4_/homework/js/up2.js",
+		"/home/yura/my-projects/homework/lection4_/homework/js/up.js",
+		"/home/yura/testNode/objects.js",
+		"/home/yura/testNode/object-properties.js",
+		"/home/yura/testNode/functions.js",
+		"/home/yura/testNode/functions-arguments.js",
+		"/home/yura/testNode/scope.js",
+		"/home/yura/testNode/looping-through-arrays.js",
+		"/home/yura/testNode/accessing-array-values.js",
+		"/home/yura/testNode/number-to-string.js",
+		"/home/yura/testNode/array-filtering.js",
+		"/home/yura/testNode/arrays.js",
+		"/home/yura/testNode/for-loop.js",
+		"/home/yura/testNode/if-statement.js",
+		"/home/yura/testNode/introduction.js",
+		"/home/yura/testNode/variables.js",
+		"/home/yura/testNode/strings.js",
+		"/home/yura/testNode/revising-strings.js",
+		"/home/yura/testNode/numbers.js",
+		"/home/yura/testNode/rounding-numbers.js",
+		"/home/yura/testNode/string-length.js",
+		"/usr/local/lib/node_modules/javascripting/solutions/accessing-array-values/index.js",
+		"/home/yura/Desktop/workshop",
+		"/home/yura/my-projects/homework/JS/js/task4.js",
+		"/home/yura/my-projects/homework/JS/js/script.js",
+		"/home/yura/my-projects/homework/JS/js/task5.js",
+		"/home/yura/my-projects/homework/JS/js/legnth.js",
+		"/home/yura/my-projects/homework/JS/js/prompt.js",
+		"/home/yura/my-projects/homework/JS/js/for.js",
+		"/home/yura/my-projects/homework/JS/lection4_/homework/js/up2.js",
+		"/home/yura/my-projects/homework/JS/lection4_/homework/js/up.js",
+		"/home/yura/my-projects/homework/JS/lecture5/index.html",
+		"/home/yura/my-projects/homework/7HTML-Advansed/css/style.css",
+		"/home/yura/my-projects/homework/JS/lecture5/js/app.js",
+		"/home/yura/my-projects/homework/JS/lecture5/css/style.css",
+		"/home/yura/my-projects/homework/JS/lection4_/homework/index.html",
+		"/home/yura/my-projects/homework/JS/lection4_/js/up.js",
+		"/home/yura/my-projects/homework/JS/lection4/up.js",
+		"/home/yura/my-projects/homework/JS/lection4_/index.html",
+		"/home/yura/my-projects/homework/JS/lection4/index.html",
+		"/home/yura/homework/Vebinar/css/style.css",
+		"/home/yura/homework/Oksana_site/index.html",
+		"/home/yura/homework/7HTML-Advansed/css/style.css",
+		"/home/yura/homework/7HTML-Advansed/index.html",
+		"/home/yura/homework/4-HTML-BASIC/index.html",
+		"/home/yura/homework/4-HTML-BASIC/stylesheets/github-light.css",
+		"/home/yura/.config/sublime-text-3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/yura/homework/JS/js/script.js",
+		"/home/yura/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/yura/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/yura/homework/JS/index.html",
+		"/home/yura/homework/Vebinar/index.html",
+		"/home/yura/homework/JS/js/index.js",
+		"/home/yura/homework/Vebinar/css/reset.css",
+		"/home/yura/homework/7HTML-Advansed_new/css/style.css",
+		"/home/yura/homework/6HTML-Advansed/6HTML-Advansed/index.html",
+		"/home/yura/Desktop/index.html",
+		"/home/yura/Desktop/html_homework/index.html",
+		"/home/yura/Desktop/style.css",
+		"/home/yura/Desktop/html_homework/idex.html",
+		"/home/yura/Desktop/paraglider1.0.html",
+		"/home/yura/Desktop/paraglider.html",
+		"/home/yura/Desktop/paraglider.txt",
+		"/home/yura/test.project/test.html",
+		"/home/yura/chervoni_maky/app/Resources/views/default/index.html.twig",
+		"/home/yura/Desktop/portfolio/framework/test.html",
+		"/home/yura/Desktop/portfolio/toplist/index.html",
+		"/home/yura/Desktop/portfolio/framework/css/main.css",
+		"/home/yura/Desktop/portfolio/toplist/style.css",
+		"/home/yura/Desktop/portfolio/toplist/Untitled Document",
+		"/home/yura/project/sandstone/src/Acme/NewsBundle/Resources/views/Default/index.html.twig",
+		"/home/yura/chervoni_maky/src/AppBundle/AppBundle.php",
+		"/home/yura/chervoni_maky/app/config/config.yml",
+		"/home/yura/chervoni_maky/web/css/main.css",
+		"/home/yura/chervoni_maky/app/Resources/views/default/test.html",
+		"/home/yura/chervoni_maky/src/AppBundle/Controller/DefaultController.php",
+		"/home/yura/project/sandstone/src/Acme/RoutesBundle/Resources/views/Default/region.html.twig",
+		"/home/yura/project/sandstone/src/Acme/NewsBundle/Resources/config/routing.yml",
+		"/home/yura/chervoni_maky/app/config/routing.yml",
+		"/home/yura/chervoni_maky/app/config/routing_dev.yml",
+		"/home/yura/project/sandstone/src/Acme/NewsBundle/Controller/NewsController.php",
+		"/home/yura/chervoni_maky/app/Resources/views/default/main.css",
+		"/home/yura/project/sandstone/app/Resources/views/auth.html.twig",
+		"/home/yura/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/etc/apache2/sites-enabled/000-default.conf"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"295px",
+			"8px",
+			");",
+			";\n",
+			"/\"",
+			"for",
+			"               "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
